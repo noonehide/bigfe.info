@@ -39,6 +39,8 @@ module.exports = {
           'principle/05.组件渲染全流程',
           'principle/06.前端路由',
           'principle/07.常见问题',
+          'principle/08.keep-alive',
+          'principle/09.vue-loader',
         ]
       }
     ],

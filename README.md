@@ -27,6 +27,8 @@
 - [模板编译](https://bigfe.info/docs/vue/principle/04.%E6%A8%A1%E6%9D%BF%E7%BC%96%E8%AF%91.html)
 - [组件渲染流程](https://bigfe.info/docs/vue/principle/05.%E7%BB%84%E4%BB%B6%E6%B8%B2%E6%9F%93%E5%85%A8%E6%B5%81%E7%A8%8B.html)
 - [前端路由](https://bigfe.info/docs/vue/principle/06.%E5%89%8D%E7%AB%AF%E8%B7%AF%E7%94%B1.html)
+- [Keep-Alive](https://bigfe.info/docs/vue/principle/08.keep-alive.html)
+- [vue-loader](https://bigfe.info/docs/vue/principle/09.vue-loader.html)
 - [常见问题](https://bigfe.info/docs/vue/principle/07.%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98.html)
 
 
