@@ -13,8 +13,8 @@ categories:
 
 - 由于原版 github 被墙，换成国内源
 
-```js
-/bin/zsh -c "curl -fsSL https://gitee.com/cunkai/HomebrewCN/raw/master/Homebrew.sh"
+```
+curl -fsSL https://gitee.com/cunkai/HomebrewCN/raw/master/Homebrew.sh
 ```
 
 ## Sketch
@@ -37,37 +37,29 @@ brew install visual-studio-code
 
 ### 安装插件
 
-#### Auto Close Tag
+### 视图优化
 
-#### Chinese
+-  Chinese: 中文插件
+-  Markdown All in One: Markdown预览
+-  vscode-icons: 漂亮的图标
 
-#### Code Runner
-
-#### Debugger for Chrome
-
-#### Eslint
-
-#### GitLens
-
-#### Highlight Matching Tag
-
-#### HTML Snippets
-
-#### Live Server
-
-#### Markdown All in One
-
-#### Path Intellisense
-
-#### Prettier
-
-#### Vetur
-
-#### Visual Studio IntelliCode
-
-#### vscode-icons
-
-#### Code Spell Checker
+### 代码提效与优化
+- Visual Studio IntelliCode: 智能的代码提示
+- Code Spell Checker: 检查错误单词
+- Auto Close Tag: 字段关闭tag
+- Highlight Matching Tag: 高亮匹配的tag
+- Path Intellisense: 路径提示
+### 语法糖
+- HTML Snippets: HTML语法糖
+- Vetur: Vue语法糖
+- ES7 React/Redux/GraphQL/React-Native snippets: react语法糖
+### 开发体验
+- Code Runner: 运行代码
+- Debugger for Chrome: debugger chrome
+- Eslint: eslint
+- GitLens: git工具
+- Live Server: 快速打开本地服务
+- Prettier: 优化代码
 
 ## chrome
 
@@ -75,33 +67,18 @@ brew install visual-studio-code
 
 ### 安装插件
 
-#### FeHepler
+### 工具
+- FeHepler: 很多方便的工具:颜色转化，Json 格式化，二维码生成等
+- EditThisCookie: 随心修改 cookie
+- LastPass: 存储账号密码
+- Smart Header: 任意修改 header 数据
+  
+### 框架
+- React Devoleper Tools: react 开发者必备
 
-很多方便的工具:颜色转化，Json 格式化，二维码生成等
-
-#### EditThisCookie
-
-随心修改 cookie
-
-#### LastPass
-
-存储账号密码
-
-#### Smart Header
-
-任意修改 header 数据
-
-#### React Devoleper Tools
-
-react 开发者必备
-
-#### Proxy SwitchyOmega
-
-代理神器
-
-#### 谷歌上网助手
-
-看名字
+### 代理
+- Proxy SwitchyOmega: 代理神器
+- 谷歌上网助手: 科学上网工具
 
 ## iterm2
 
