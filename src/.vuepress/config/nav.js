@@ -17,8 +17,12 @@ module.exports = [
           "link": "/docs/react/base/catalogue"
         },
         {
-          "text": "前端知识图谱",
+          "text": "JS",
           "link": "/docs/web/js/"
+        },
+        {
+          "text": "数据结构",
+          "link": "/docs/algorithms/base/catalogue"
         }
       ]
     },
