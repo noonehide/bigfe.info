@@ -101,4 +101,21 @@ module.exports = {
         'practice',
       ]
     }],
+    "/docs/algorithms/": [
+      {
+        "title": "时空复杂度",
+        "collapsable": true,
+        "children": [
+          'base/01.时间复杂度',
+          'base/02.空间复杂度'
+        ]
+      },
+      {
+        "title": "数据结构",
+        "collapsable": true,
+        "children": [
+          'data-structure/01.栈'
+        ]
+      }
+    ],
   }
