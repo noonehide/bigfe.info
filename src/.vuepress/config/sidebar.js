@@ -41,6 +41,7 @@ module.exports = {
           'principle/07.常见问题',
           'principle/08.keep-alive',
           'principle/09.vue-loader',
+          'principle/10.nextTick'
         ]
       }
     ],

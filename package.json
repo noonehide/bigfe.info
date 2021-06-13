@@ -7,8 +7,10 @@
     "build": "vuepress build ./src"
   },
   "devDependencies": {
+    "@babel/preset-react": "^7.13.13",
     "@vuepress-reco/vuepress-plugin-extract-code": "^1.0.4",
     "@vuepress/plugin-pwa": "^1.8.2",
+    "babel-cli": "^6.26.0",
     "vuepress": "1.5.4",
     "vuepress-plugin-baidu-autopush": "^1.0.1",
     "vuepress-plugin-boxx": "^0.0.7",
@@ -16,6 +18,8 @@
     "vuepress-theme-reco": "1.5.7"
   },
   "dependencies": {
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
     "vue-class-component": "^7.2.3"
   },
   "description": "jjjh博客"
