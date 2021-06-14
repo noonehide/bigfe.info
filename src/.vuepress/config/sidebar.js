@@ -114,7 +114,9 @@ module.exports = {
         "title": "数据结构",
         "collapsable": true,
         "children": [
-          'data-structure/01.栈'
+          'data-structure/01.栈',
+          'data-structure/02.队列',
+          'data-structure/03.链表'
         ]
       }
     ],
