@@ -93,7 +93,7 @@ module.exports = {
       "title": "JS",
       "collapsable": true,
       "children": [
-        '',
+        '继承',
         'closure',
         'this',
         'promise',
